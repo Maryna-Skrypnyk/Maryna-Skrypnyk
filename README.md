@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Full Stack Developer (JS + React) :computer:
+## Front-End Developer (JS + React) :computer:
 
 [![Maryna's github stats](https://github-readme-stats.vercel.app/api?username=Maryna-Skrypnyk&theme=tokyonight)](https://github.com/Maryna-Skrypnyk)
 
