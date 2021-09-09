@@ -31,5 +31,6 @@
 
 <br>
 <br>
+<br>
 
 ## 📝 Checkout my [resume](https://maryna-skrypnyk.github.io/my-cv/)
