@@ -1,6 +1,6 @@
 ## My name's Maryna and I'm a Full Stack Developer (JS + React) :computer:
 <a href="mailto:marina.skrypnyk@gmail.com" rel="noopener noreferrer" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/maryna-skrypnyk/" rel="noopener noreferrer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?&logo=linkedin&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/maryna-skrypnyk/" rel="noopener noreferrer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?&logo=linkedin&logoColor=white" /></a> 
 <a href="https://t.me/maryna_skrypnyk" rel="noopener noreferrer" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white" /></a>
 <a href="https://github.com/Maryna-Skrypnyk" rel="noopener noreferrer" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white" /></a>
 
