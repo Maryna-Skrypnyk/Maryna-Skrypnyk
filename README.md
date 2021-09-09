@@ -1,10 +1,8 @@
 ## My name's Maryna and I'm a Full Stack Developer (JS + React) :computer:
-<p>
-  <a href="mailto:marina.skrypnyk@gmail.com" rel="noopener noreferrer" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic&logo=appveyor"" /></a>
-  <a href="https://www.linkedin.com/in/maryna-skrypnyk/" rel="noopener noreferrer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&logo=appveyor""/></a> 
-  <a href="https://t.me/maryna_skrypnyk" rel="noopener noreferrer" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=plastic&logo=appveyor" /></a>
-   <a href="https://github.com/Maryna-Skrypnyk" rel="noopener noreferrer" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=plastic&logo=appveyor"" /></a>
-</p>
+<a href="mailto:marina.skrypnyk@gmail.com" rel="noopener noreferrer" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/maryna-skrypnyk/" rel="noopener noreferrer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?&logo=linkedin&logoColor=white"/></a> 
+<a href="https://t.me/maryna_skrypnyk" rel="noopener noreferrer" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white" /></a>
+<a href="https://github.com/Maryna-Skrypnyk" rel="noopener noreferrer" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white" /></a>
 
  ## 📊 GitHub Stats
 <a href="https://github.com/Maryna-Skrypnyk/Maryna-Skrypnyk">
