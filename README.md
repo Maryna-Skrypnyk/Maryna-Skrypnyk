@@ -1,12 +1,20 @@
-### Hi there 👋
+## My name's Maryna and I'm a Full Stack Developer (JS + React) :computer:
+<p>
+  <a href="mailto:marina.skrypnyk@gmail.com" rel="noopener noreferrer" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic&logo=appveyor"" /></a>
+  <a href="https://www.linkedin.com/in/maryna-skrypnyk/" rel="noopener noreferrer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&logo=appveyor""/></a> 
+  <a href="https://t.me/maryna_skrypnyk" rel="noopener noreferrer" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=plastic&logo=appveyor" /></a>
+   <a href="https://github.com/Maryna-Skrypnyk" rel="noopener noreferrer" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=plastic&logo=appveyor"" /></a>
+</p>
 
-## Front-End Developer (JS + React) :computer:
+ ## 📊 GitHub Stats
+<a href="https://github.com/Maryna-Skrypnyk/Maryna-Skrypnyk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryna-Skrypnyk&title_color=ffffff&show_icons=true&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Maryna's GitHub Stats" />
+</a>
+<a href="https://github.com/Maryna-Skrypnyk/Maryna-Skrypnyk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maryna-Skrypnyk&title_color=ffffff&show_icons=true&icon_color=ffffff&line_height=27&theme=tokyonight" alt="Maryna's GitHub Langs" />
+</a>
 
-[![Maryna's github stats](https://github-readme-stats.vercel.app/api?username=Maryna-Skrypnyk&theme=tokyonight)](https://github.com/Maryna-Skrypnyk)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Maryna-Skrypnyk&theme=highcontrast" alt="Maryna-Skrypnyk" /></p>
-
-### STACK & TOOLS:
+## 🔧 Technologies & Tools
 
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" alt="html" height='42px'/> </a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" alt="css" height='42px'/> </a>
