@@ -5,6 +5,8 @@
 <a href="https://t.me/maryna_skrypnyk" rel="noopener noreferrer" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white" /></a>
 <a href="https://github.com/Maryna-Skrypnyk" rel="noopener noreferrer" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white" /></a>
 
+## 📝 Checkout my [resume](https://maryna-skrypnyk.github.io/my-cv/)
+
 ## 📊 GitHub Stats
 <a href="https://github.com/Maryna-Skrypnyk/Maryna-Skrypnyk">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryna-Skrypnyk&title_color=ffffff&show_icons=true&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Maryna's GitHub Stats" />
@@ -28,9 +30,3 @@
 <a href="https://handlebarsjs.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/handlebars/handlebars-01.svg" alt="parcel" height='48px' /> </a>
 <a href="https://www.npmjs.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/npm/npm.svg" alt="parcel" height='48px' /> </a>
 <a href="https://www.netlify.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/netlify/netlify.svg" alt="parcel" height='42px' /> </a>
-
-<br>
-<br>
-<br>
-
-## 📝 Checkout my [resume](https://maryna-skrypnyk.github.io/my-cv/)
