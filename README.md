@@ -5,7 +5,7 @@
 <a href="https://t.me/maryna_skrypnyk" rel="noopener noreferrer" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white" /></a>
 <a href="https://github.com/Maryna-Skrypnyk" rel="noopener noreferrer" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white" /></a>
 
-## 📝 Checkout my resume
+## 📝 Checkout my [resume](https://maryna-skrypnyk.github.io/my-cv/)
 
 ## 📊 GitHub Stats
 <a href="https://github.com/Maryna-Skrypnyk/Maryna-Skrypnyk">
