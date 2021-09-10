@@ -16,7 +16,6 @@
 </a>
 
 ## 🛠️ Technologies & Tools
-
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/html/html.svg" alt="html" height='42px' /></a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/css/css.svg" alt="css" height='42px' /></a>
 <a href="https://sass-lang.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/sass/sass.svg" alt="sass" height='42px' /></a>
@@ -30,5 +29,6 @@
 <a href="https://parceljs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/parcel/parcel.svg" alt="parcel" height='42px' /> </a>
 <a href="https://handlebarsjs.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/handlebars/handlebars-01.svg" alt="handlebars" height='48px' /></a>
 <a href="https://www.npmjs.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/npm/npm.svg" alt="npm" height='48px' /></a>
-<a href="https://www.netlify.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/netlify/netlify.svg" alt="netlify" height='42px' /></a>          
+<a href="https://www.netlify.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/netlify/netlify.svg" alt="netlify" height='42px' /></a>         
        
+## 📝 Checkout my [resume](https://maryna-skrypnyk.github.io/my-cv/ "Resume")
