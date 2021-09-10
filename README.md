@@ -34,6 +34,8 @@
        
        
 </br>
+</br>   
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maryna-Skrypnyk&repo=project-Filmoteka)](https://github.com/Maryna-Skrypnyk/project-Filmoteka)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maryna-Skrypnyk&repo=icecream-project-group-9)](https://github.com/Maryna-Skrypnyk/icecream-project-group-9)
