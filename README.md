@@ -33,6 +33,4 @@
   
 ## 📝 Checkout my [resume](https://maryna-skrypnyk.github.io/my-cv/)
   
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Maryna-Skrypnyk)
-  
   
