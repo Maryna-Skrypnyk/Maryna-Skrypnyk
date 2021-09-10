@@ -32,14 +32,3 @@
 <a href="https://www.npmjs.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/npm/npm.svg" alt="npm" height='48px' /></a>
 <a href="https://www.netlify.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/netlify/netlify.svg" alt="netlify" height='42px' /></a>          
        
-       
-</br>
-</br>   
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maryna-Skrypnyk&repo=project-Filmoteka)](https://github.com/Maryna-Skrypnyk/project-Filmoteka)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maryna-Skrypnyk&repo=icecream-project-group-9)](https://github.com/Maryna-Skrypnyk/icecream-project-group-9)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maryna-Skrypnyk&repo=goit-react-hw-08-phonebook)](https://github.com/Maryna-Skrypnyk/goit-react-hw-08-phonebook)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maryna-Skrypnyk&repo=goit-react-hw-04-movies)](https://github.com/Maryna-Skrypnyk/goit-react-hw-04-movies)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maryna-Skrypnyk&repo=goit-markup-hw-08)](https://github.com/Maryna-Skrypnyk/goit-markup-hw-08)
-
