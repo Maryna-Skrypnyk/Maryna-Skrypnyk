@@ -16,14 +16,13 @@
 </a>
 
 ## 🛠️ Technologies & Tools
-<code><a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img alt="HTML5" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a></code>
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/html/html.svg" alt="html5" height='42px' /></a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/css/css.svg" alt="css3" height='42px' /></a>
 <a href="https://sass-lang.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/sass/sass.svg" alt="sass" height='42px' /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/javascript/javascript.svg" alt="JavaScript" height ="42px" /></a>
 <a href="https://reactjs.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/react/react.svg" alt="React" height ="42px" /></a>
 <a href="https://redux.js.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/redux/redux.svg" alt="Redux" height='42px' /></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px' /></a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/git-scm/git-2.svg" align="left" alt="git" height='42px' /></a>
 <a href="https://webpack.js.org" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/webpack/webpack.svg" alt="webpack" height ="42px" /></a>
 <a href="https://www.figma.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px' /></a>
 <a href="https://material-ui.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/material-ui/material-ui.svg" alt="material-ui" height='42px' /></a>
@@ -31,4 +30,5 @@
 <a href="https://handlebarsjs.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/handlebars/handlebars-01.svg" alt="handlebars" height='48px' /></a>
 <a href="https://www.npmjs.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/npm/npm.svg" alt="npm" height='48px' /></a>
 <a href="https://www.netlify.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/netlify/netlify.svg" alt="netlify" height='42px'/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/vsc/vsc.svg" alt="visual studio code" height='42px'/></a>
 
