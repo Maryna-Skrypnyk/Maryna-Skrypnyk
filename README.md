@@ -5,9 +5,9 @@
 <a href="https://t.me/maryna_skrypnyk" rel="noopener noreferrer" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white" /></a>
 <a href="https://github.com/Maryna-Skrypnyk" rel="noopener noreferrer" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white" /></a>
 
-## 📝 Checkout my [resume](https://maryna-skrypnyk.github.io/my-cv/)
+### 📝 Checkout my [resume](https://maryna-skrypnyk.github.io/my-cv/)
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 <a href="https://github.com/Maryna-Skrypnyk/Maryna-Skrypnyk">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryna-Skrypnyk&title_color=ffffff&show_icons=true&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Maryna's GitHub Stats" />
 </a>
@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maryna-Skrypnyk&include_all_commits=true&title_color=ffffff&show_icons=true&icon_color=ffffff&line_height=27&theme=tokyonight" alt="Maryna's GitHub Langs" />
 </a>
 
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/html/html.svg" alt="html5" height='42px' /></a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/css/css.svg" alt="css3" height='42px' /></a>
 <a href="https://sass-lang.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/sass/sass.svg" alt="sass" height='42px' /></a>
