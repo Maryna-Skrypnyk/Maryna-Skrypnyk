@@ -31,7 +31,7 @@
 <a href="https://parceljs.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/parcel/parcel.svg" alt="parcel" height='42px' /></a>
 <a href="https://web.postman.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/postman/getpostman.svg" alt="postman" height='42px' /></a>
 <a href="https://nodejs.org/en/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/node/nodejs.svg" alt="node" height='42px'/></a>
-<a href="https://handlebarsjs.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/handlebars/handlebars-01.svg" alt="handlebars" height='42px' /></a>
+<a href="https://handlebarsjs.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/handlebars/handlebarsjs.svg" alt="handlebars" height='42px' /></a>
 <a href="https://www.npmjs.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/npm/npm.svg" alt="npm" height='42px' /></a>
 <a href="http://expressjs.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/express/express.svg" alt="express" height='42px' /></a>
 
