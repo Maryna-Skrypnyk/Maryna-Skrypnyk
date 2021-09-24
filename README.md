@@ -16,10 +16,10 @@
 </a>
 
 ### 🛠️ Technologies & Tools
-<a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/html/html-i.svg" alt="html5" height='42px' /></a>
+<a href="https://en.wikipedia.org/wiki/HTML" target="_blank" style="padding:10px"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/html/html-i.svg" alt="html5" height='42px' /></a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/css/css-i.svg" alt="css3" height='42px' /></a>
 <a href="https://sass-lang.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/sass/sass-i.svg" alt="sass" height='42px' /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/javascript/javascript.svg" alt="JavaScript" height ="42px" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/javascript/javascript-w.svg" alt="JavaScript" height ="42px" /></a>
 <a href="https://reactjs.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/react/react.svg" alt="React" height ="42px" /></a>
 <a href="https://redux.js.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/redux/redux.svg" alt="Redux" height='42px' /></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Maryna-Skrypnyk/readme-icons/main/language_and_tools/square/git-scm/git-i.svg" align="left" alt="git" height='42px' /></a>
